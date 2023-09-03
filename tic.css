@@ -58,7 +58,31 @@ p{
     border-right: 1px solid gray;
 }
 #b8{
-    border-bottom: 1px solid gray;
-    border-bottom: 1px solid gray;
-    border-bottom: 1px solid gray;
+    border-top: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+}
+#b9{
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+}
+#but{
+    box-sizing: border-box;
+    width:100px;
+    height:40px;
+    border: 1px solid dodgerblue;
+    border-radius: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+#print{
+    color: dodgerblue;
+    font-size: 20px;
+}
+#main{
+    text-align: center
+    ;
+}
+#ins{
+    color: dodgerblue;
 }
